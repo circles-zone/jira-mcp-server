@@ -3,7 +3,6 @@ node_modules/
 *.log
 claude_desktop_config.json
 test-connection-local.js
-test-connection.js
 .env.local
 tokens.json
 credentials.json
