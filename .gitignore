@@ -3,9 +3,11 @@ node_modules/
 *.log
 claude_desktop_config.json
 test-connection-local.js
+test-connection.js
+.env.local
 tokens.json
 credentials.json
-.env.local
-claude_desktop_config.backup.json
 .DS_Store
 Thumbs.db
+claude_desktop_config.backup.json
+GITHUB_PUSH_INSTRUCTIONS.md
