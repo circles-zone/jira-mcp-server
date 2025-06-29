@@ -1,0 +1,11 @@
+node_modules/
+.env
+*.log
+claude_desktop_config.json
+test-connection-local.js
+tokens.json
+credentials.json
+.env.local
+claude_desktop_config.backup.json
+.DS_Store
+Thumbs.db
